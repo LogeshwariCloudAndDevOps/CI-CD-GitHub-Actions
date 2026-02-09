@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LogeshwariCloudAndDevOps
-- 👀 I’m interested in Learning Cloud and DevOps
-- 🌱 I’m currently learning Multi Cloud
-- 💞️ I’m looking to collaborate on Cloud and DevOps projects
+- 👀 I’m a DevOps Engineer and I would love to explore more about Cloud and DevOps
+- 🌱 I’m currently learning new technologies and tools with respect to DevOps and AI
+- 💞️ I’m looking to collaborate on Cloud,DevOps and AI projects
 - 📫 How to reach me email me @ logeshwari.cloud@gmail.com
 
 <!---
